@@ -1,3 +1,5 @@
+![Open Stream Deck](https://raw.githubusercontent.com/Open-Stream-Deck/.github/main/profile/cover.png)
+
 <div align="center">
 
 # Open Stream Deck
